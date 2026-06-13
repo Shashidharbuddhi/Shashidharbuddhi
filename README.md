@@ -2,13 +2,13 @@
 <h3 align="center">• Full Stack Developer • Learning AI </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/shashidhar-buddhi-0a06642b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_LEETCODE_LINK">
+  <a href="https://leetcode.com/u/shashidhar_b18/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://shashidhar-portfolio-six.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
   </a>
 </p>
@@ -114,9 +114,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashidharbuddhi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shashidharbuddhi&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
